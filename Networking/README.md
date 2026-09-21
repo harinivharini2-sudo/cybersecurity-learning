@@ -1,17 +1,57 @@
 # 🌐 Networking
 
-This folder contains my networking learning notes and practice.
+This section is part of **HARINI'S FOUNDATION** and focuses on building my networking fundamentals step by step.
 
-## Topics
+## 📚 Learning Roadmap
 
-- OSI Model
-- TCP/IP Model
-- IP Addressing
+### 🔹 Network Fundamentals
+- What is a Computer Network?
+- Types of Networks
+- Network Devices
+- Client and Server
+
+### 🔹 OSI Model
+- 7 Layers of the OSI Model
+- Functions of Each Layer
+
+### 🔹 TCP/IP Model
+- TCP/IP Layers
+- OSI vs TCP/IP
+
+### 🔹 IP Addressing
+- IPv4
+- IPv6
+- Public and Private IP
+- Basic Subnetting
+
+### 🔹 Networking Concepts
 - MAC Address
-- TCP & UDP
+- ARP
 - DNS
-- HTTP & HTTPS
-- Ports & Protocols
-- Routing & Switching
-- Network Security
-Then Commit changes → message:
+- DHCP
+- TCP and UDP
+- Ports and Protocols
+
+### 🔹 Network Devices
+- Switch
+- Router
+- Basic Routing Concepts
+
+### 🔹 Network Security Basics
+- Firewall
+- VPN
+- Basic Network Security Concepts
+
+---
+
+## 📌 Progress
+
+🟡 Starting with Network Fundamentals
+
+Topics will be marked as completed only after I actually learn and practice them.
+
+---
+
+## 🎯 Goal
+
+Build a strong networking foundation as the first step of **HARINI'S FOUNDATION**.
