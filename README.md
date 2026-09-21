@@ -1,108 +1,124 @@
-🔐 Cybersecurity Learning Journey
+# 🔐 HARINI'S FOUNDATION
 
-Welcome to my cybersecurity learning repository!
+### My Cybersecurity Learning Journey
 
-I am a 2nd-year CSE – Cybersecurity student building my foundation in cybersecurity, networking, programming, and ethical hacking.
+Welcome to **HARINI'S FOUNDATION** — my step-by-step journey towards building a strong foundation in cybersecurity and becoming an Ethical Hacker.
 
-👩‍💻 About Me
+This repository is my learning space where I document what I learn, practice, and complete along the way.
 
-🎓 CSE – Cybersecurity Student
+---
 
-🔐 Aspiring Ethical Hacker
+## 👩‍💻 About Me
 
-🌱 Currently learning Cybersecurity, Networking, Java & Python
+🎓 CSE – Cybersecurity Student  
+🔐 Aspiring Ethical Hacker  
+💻 Interested in Cybersecurity  
+🚀 Building my foundation step by step
 
-💻 Interested in Ethical Hacking and Network Security
+---
 
-🚀 Building projects and improving my technical skills
+## 📍 Current Progress
 
-🛠️ Skills & Technologies
+### ✅ Completed
 
-C
+- Cisco Introduction to Cybersecurity
+- AWS Cloud Practitioner Essentials
 
-C++
+### 📖 Currently Building My Foundation
 
-Java
+- Networking Basics
 
-Python
+### ⏳ Next
 
-Networking
+- Linux Fundamentals
+- Python
+- Cybersecurity Fundamentals
 
-Cybersecurity Fundamentals
+> Topics will be marked as completed only after I actually learn and practice them.
 
-Git & GitHub
+---
 
-Linux
+# 🗺️ HARINI'S FOUNDATION ROADMAP
 
-📚 Learning Roadmap
+## 🌐 Phase 1 — Networking
 
-🌐 Networking
+Building my networking foundation before moving deeper into cybersecurity.
 
-OSI & TCP/IP Models
+- Networking Basics
+- Network Concepts
+- IP Addressing
+- Basic Networking Concepts
 
-IP Addressing
+**Status:** 🟡 In Progress
 
-TCP & UDP
+---
 
-DNS
+## 🐧 Phase 2 — Linux
 
-HTTP/HTTPS
+Learning Linux fundamentals that are useful for cybersecurity.
 
-Routing & Switching
+**Status:** ⚪ Upcoming
 
-🐧 Linux
+---
 
-Linux Commands
+## 🐍 Phase 3 — Python
 
-File Permissions
+Building Python fundamentals and gradually using programming for cybersecurity learning.
 
-Processes
+**Status:** ⚪ Upcoming
 
-Shell Basics
+---
 
-System Administration
+## 🔐 Phase 4 — Cybersecurity Fundamentals
 
-🔐 Cybersecurity
+Building a strong understanding of core cybersecurity concepts.
 
-Cybersecurity Fundamentals
+**Status:** ⚪ Upcoming
 
-Network Security
+---
 
-Web Security
+## 🛠️ Phase 5 — Practical Security Learning
 
-Authentication & Authorization
+After building the fundamentals, I will gradually move towards practical security learning and hands-on work.
 
-Vulnerability Assessment
+**Status:** ⚪ Future
 
-Ethical Hacking
+---
 
-💻 Programming
+## ☁️ Phase 6 — Cloud Security
 
-Python for Cybersecurity
+Building on my existing cloud fundamentals and gradually learning security concepts related to cloud environments.
 
-Java
+**Status:** ⚪ Future
 
-C / C++
+---
 
-📂 Repository Contents
+## 🤖 Phase 7 — AI & Cybersecurity
 
+Exploring the connection between Artificial Intelligence and Cybersecurity after building the necessary fundamentals.
+
+**Status:** ⚪ Future
+
+---
+
+# 🎯 My Goal
+
+Build a strong cybersecurity foundation step by step and gradually work towards becoming an **Ethical Hacker**.
+
+I believe in:
+
+**Learn → Practice → Build → Improve**
+
+---
+
+## 📂 Repository Structure
+
+```text
 cybersecurity-learning/
 │
 ├── Networking/
 ├── Linux/
 ├── Python/
 ├── Cybersecurity/
-├── Web-Security/
-└── Projects/
-
-🚀 Projects
-
-Projects will be added as I progress through my cybersecurity learning journey.
-
-🎯 Goal
-
-To build a strong foundation in cybersecurity and become a skilled Ethical Hacker.
-
-⭐ This repository documents my learning, practice, and progress in cybersecurity.
-
-
+├── Projects/
+└── README.md
