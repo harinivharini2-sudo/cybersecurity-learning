@@ -1,22 +1,13 @@
-# 🚀 Projects
+# 🛠️ Projects
 
-This folder contains my cybersecurity, programming, and academic projects.
+This section is reserved for my future cybersecurity learning projects.
 
-## 🔐 Cybersecurity Projects
+## 📌 Current Status
 
-Projects related to ethical hacking, network security, and cybersecurity.
+⚪ No projects completed yet.
 
-## 💻 Programming Projects
+Projects will be added here only after I learn the required concepts and build them myself.
 
-Projects developed using C, C++, Java, and Python.
+## 🎯 Future Goal
 
-## 🎓 Academic Projects
-
-College projects, hackathons, and other academic work.
-
-## 📌 Upcoming Projects
-
-- Python Cybersecurity Tools
-- Network Security Projects
-- Web Security Projects
-- Ethical Hacking Labs
+Learn the fundamentals first, then gradually start building practical cybersecurity projects.
